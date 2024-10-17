@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Обязанности по дому каждого котика</title>
+    <style>
+        body {
+            font-family: Courier New;
+            background-color: #f9acdd;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 18px;
+            text-align: left;
+        }
+        ul {
+            background-color: #f9acdd;
+            padding: 20px;
+            list-style-type: circle;
+        }
+        ol {
+            background-color: #f9acdd;
+            padding: 35px;
+            text-align: left;
+        }
+        img {
+            max-width: 400px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        hr {
+            border: none;
+            border-top: 2px solid #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Обязанности по дому каждого кота</h1>
+    
+    <p><strong>Каждый кот</strong> имеет свои <em>важные обязанности</em> по дому, которые он выполняет с полной отдачей. </p>
+    
+    <h2>Основные обязанности:</h2>
+    <ol>
+        <li>Кот должен отсыпаться за человека, всех его родственников, друзей и соседей вместе взятых.
+            <img src="photo_2024-10-13_18-00-08.jpg" alt="Кот спит" title="Кот спит">
+        </li>
+        <li>Кот должен защищать человека от комнатных растений.
+            <img src="Leonardo_Phoenix_A_regal_fluffy_cat_with_bright_green_eyes_and_2.jpg" alt="Кот охраняет растения" title="Кот охраняет растения">
+        </li>
+        <li>Кот должен поддерживать человека в форме, заставляя его двигаться по квартире и собирать вещи.
+            <img src="Leonardo_Phoenix_A_frenzied_domestic_cat_its_fur_standing_on_e_2.jpg" alt="Кот гонится за человеком" title="Кот гонится за человеком">
+        </li>
+        <li>Кот должен крепко держать зубами ручку или карандаш, пока человек пишет.
+            <img src="Leonardo_Phoenix_A_majestic_soft_and_rotund_cat_with_a_velvety_0.jpg" alt="Кот держит ручку" title="Кот держит ручку">
+        </li>
+        <li>Кот должен проводить ревизию в холодильнике, даже если человек не хочет этого.
+            <img src="Leonardo_Phoenix_A_majestic_rotund_feline_with_a_vibrant_fiery_2.jpg" alt="Кот проверяет холодильник" title="Кот проверяет холодильник">
+        </li>
+        <li>Кот должен проверять ночью, не заползла ли под одеяло змея.
+            <img src="photo_5_2024-10-13_17-46-45.jpg" alt="Кот проверяет кровать" title="Кот проверяет кровать">
+        </li>
+        <li>Кот должен тренироваться для цирковых выступлений, устраивая полеты по квартире.
+            <img src="photo_1_2024-10-13_17-46-45.jpg" alt="Кот прыгает" title="Кот прыгает">
+        </li>
+        <li>Кот должен помогать стелить постель, проверяя наличие предметов под простыней.
+            <img src="photo_2_2024-10-13_17-46-45.jpg" alt="Кот помогает стелить постель" title="Кот помогает стелить постель">
+        </li>
+        <li>Кот должен будить человека, прыгая ему на живот или голову.
+            <img src="photo_3_2024-10-13_17-46-45.jpg" alt="Кот будит человека" title="Кот будит человека">
+        </li>
+        <li>Кот должен напоминать человеку пословицу: <mark>«Кто рано встает, тому Бог дает»</mark>.
+            <img src="photo_4_2024-10-13_17-46-45.jpg" alt="Кот напоминает" title="Кот напоминает">
+        </li>
+        <li>Кот должен делиться мехом и выкидывать половину еды из чашки.
+            <img src="Leonardo_Phoenix_A_sweet_handsome_grey_cat_with_bright_green_e_0.jpg" alt="Кот делится мехом" title="Кот делится мехом">
+        </li>
+        <li>Кот должен петь песни, доставляя человеку радость, даже если они грустные.
+            <img src="Leonardo_Phoenix_A_vibrant_fiery_red_fluffy_cat_with_a_rounded_2.jpg" alt="Кот поет" title="Кот поет">
+        </li>
+        <li>Кот должен проверять шкафы и тумбочки, если они не закрыты.
+            <img src="Leonardo_Phoenix_A_chubby_adorable_and_handsome_grey_and_white_0.jpg" alt="Кот проверяет шкаф" title="Кот проверяет шкаф">
+        </li>
+        <li>Кот должен отгонять плохие сны, прыгая на голову человеку, если он ворочается.
+            <img src="Leonardo_Phoenix_A_chubby_adorable_and_handsome_cat_with_brigh_0.jpg" alt="Кот отгоняет плохие сны" title="Кот отгоняет плохие сны">
+        </li>
+        <li>Кот должен проверять все коробки и пакеты на удобство и пригодность для нахождения в них.
+            <img src="photo_2024-10-13_18-00-02.jpg" alt="Кот проверяет коробки" title="Кот проверяет коробки">
+        </li>
+        <li>Кот должен заглушать наружный шум, громко урча под ухом во время сна человека.
+            <img src="photo_2024-10-13_17-59-55.jpg" alt="Кот урчит" title="Кот урчит">
+        </li>
+    </ol>
+
+    <hr>
+
+    <h2>Любимые питомцы</h2>
+    <p>Мои котики, которые выполняют все эти обязанности (а еще проказничают):</p>
+    
+    <figcaption>Моя Бусенька</figcaption>
+    <img src="photo_2024-10-13_18-26-32.jpg" alt="Котики" width="600" height="300">
+   
+    <figcaption>Любимая Рикки</figcaption>
+    <img src="photo_2024-10-13_18-26-42.jpg" alt="Котики" width="600" height="300">
+    <hr>
+
+    <h2>Каждый день с котиками  be like:</h2>
+    <video controls>
+        <source src="IMG_1914.MP4" type="video/mp4">
+        Ваш браузер не поддерживает видео.
+    </video>
+
+    <h2> И так каждое утро мы завкракаем вместе:</h2>
+    <video controls>
+        <source src="IMG_1915.MP4" type="video/mp4">
+        Ваш браузер не поддерживает видео.
+    </video>
+    <h2>Полезные ссылки:</h2>
+    <p>Святые кошачьи обязанности: <a href="https://twizz.ru/15-svyatyx-obyazannostej-kazhdogo-poryadochnogo-kota/" target="_blank">Тык для перехода на сайт</a>.</p>
+
+</body>
+</html>
